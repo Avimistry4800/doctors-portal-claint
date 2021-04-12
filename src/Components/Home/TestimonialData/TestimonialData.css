@@ -1,0 +1,14 @@
+.testimonial-card {
+    padding-left: 30px;
+    -webkit-box-shadow: 6px 6px 11px -5px rgba(74, 67, 74, 1);
+    -moz-box-shadow: 6px 6px 11px -5px rgba(74, 67, 74, 1);
+    box-shadow: 6px 6px 11px -5px rgba(74, 67, 74, 1);
+}
+.testimonial-card img {
+    height: 60px;
+    padding-right: 20px;
+
+}
+.testimonial-data {
+    padding-bottom: 20px;
+}

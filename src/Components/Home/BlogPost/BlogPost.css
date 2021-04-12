@@ -1,0 +1,21 @@
+.blog-post{
+    height:400px;
+    -webkit-box-shadow: 6px 6px 11px -5px rgba(74, 67, 74, 1);
+    -moz-box-shadow: 6px 6px 11px -5px rgba(74, 67, 74, 1);
+    box-shadow: 6px 6px 11px -5px rgba(74, 67, 74, 1);
+}
+.blog-data {
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.blog-data img{
+    height: 60px;
+    padding-right: 20px;
+}
+.blog-text{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.blog-description{
+    padding-top: 30px;
+}

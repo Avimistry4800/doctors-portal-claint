@@ -1,0 +1,30 @@
+.contact-us{
+    padding-top: 40px;
+    text-align:center;
+    color: white;
+    background-image: url(../../../images/Mask.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+    background-position: center center;
+    
+}
+.contact-us::before{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgb(36, 41, 73);
+    background-position: center center;
+    opacity: .2;
+    top: 0;
+}
+.contact-form{
+    margin-left: 27%;
+    padding-top: 40px;
+}
+.button{
+    margin-left: 27%;
+}
